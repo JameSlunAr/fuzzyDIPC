@@ -1,0 +1,55 @@
+// 30/11/23 GA
+
+gen 10  pop 25
+0.0431    0.2741    0.1739
+0.1250    0.2500    0.4710
+damping tot
+gần gen cuối mới tốt, random
+
+gen 25  pop 10
+0.5787    0.8714    0.7530	high peak
+0.2329    0.2500    0.4187	perfect
+etc
+
+=>> gen x pop = const thì gen lớn sẽ tốt hơn
+
+Dùng ITAE tại điểm cuối không tốt
+->> abs e + abs e(z-5)
+Tsim 20s
+0.5971    0.6229    1.0814	từ sim 20 lên 50s khá ziczac
+0.5127    0.4570    0.7188	~perfect, có ziczac lên 50s nhưng tương đối đẹp, peak thấp
+
+sim nên ngắn. tsim = t xác lập. Nên chọn tsim phù hợp, lớn quá -> đáp ứng chậm, GA không ra, nhỏ quá -> không đáp ứng kịp, GA cũng không ra
+
+Tsim 20s
+0.4596    0.3455    0.9844
+0.1458    0.1554    1.2663	cực kì đẹp, cost .6645
+->> cost thấp chưa chắc đã ổn định/tốt ->> chạy nhiều lần, lựa chọn (thụ động) _____ solve????
+
+
+
+50 gen 5 pop
+Tsim 50
+0.4845    0.7839    0.6931	high peak
+
+Về tsim 20s: nhiều gen ít pop -> ?!?! Mutation thấp, khó tìm global min -> gen ~ pop or gen > pop > sth. Ưu tiên nhiều gen, từ đó giảm pop đến mức tương đối {ở trên khi cho gen lớn hơn thấy tốt hơn về gen sau, khoảng từ 15 trở đi, set 15 gen -> cần pop, hoặc thêm gen}
+
+15 gen 15 pop
+Tsim 20
+0.2500    0.3173    0.5000	đẹp nhất, cost .5278
+0.2652    0.5000    0.4404	cost siêu nhỏ, lỡ sim 50, high peak, đáp ứng vẫn nhanh (so với tsim 20 thì gần bằng)
+0.5234    0.5889    0.6443	tsim 20 cost .0357, high peak
+0.3925    0.4192    0.4375	cost 0.54, đẹp, peak k quá cao
+
+15 15	abs e + abs e(2/3 tsim) =============================== tốt nhất đến giờ
+0.1219    0.2500    0.2500	100% cost .0059
+0.0225    0.2188    0.0699	100% cost .0323
+
+
+Chung quy: càng nhiều gen nhiều pop thì càng tốt, càng dễ quét hết không gian biến nhưng đổi lại thời gian chạy
+*** chưa can thiệp rating mutation, replication...
+*** giới hạn ub lb nhỏ (cần dự đoán trước hoặc đổi lại thời gian chạy nhiều hơn)
+
+============================================================================================================
+
+// 30/11/23 2124

@@ -1,0 +1,5423 @@
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   11.0532
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+  335.0222
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   86.7012   62.6322
+
+
+cost =
+
+  302.9342
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   75.6140  -34.5623  -76.6123
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+   4.8707e+04
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   90.5166
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+   4.3566e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   86.9512   61.6322
+
+
+cost =
+
+  301.9938
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623  -20.4586
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+   1.8055e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   88.4213
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+   4.2396e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   64.5766  -88.6900  -35.5623   11.0532
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+   2.6649e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   -0.1772
+
+  Columns 5 through 6
+
+   86.7012   62.6322
+
+
+cost =
+
+  360.4933
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -34.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   62.6322
+
+
+cost =
+
+  301.9159
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.2173
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -34.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   62.6322
+
+
+cost =
+
+  301.9159
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   76.6140  -35.5623  -77.6123
+
+  Columns 5 through 6
+
+   85.7012   63.6322
+
+
+cost =
+
+   5.2702e+04
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+  302.1806
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623   11.5532
+
+  Columns 5 through 6
+
+   16.6131   61.6322
+
+
+cost =
+
+   1.9022e+03
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   86.9512   62.6322
+
+
+cost =
+
+  304.3301
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   86.9512   61.6322
+
+
+cost =
+
+  302.0300
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   75.6140  -34.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  341.1281
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   88.4213
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+   4.2396e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   16.6131   61.6322
+
+
+cost =
+
+   2.2409e+03
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   86.9512   61.6322
+
+
+cost =
+
+  301.7173
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+  302.3066
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -34.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   62.6322
+
+
+cost =
+
+  301.9159
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623  -76.6123
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+   4.4896e+04
+
+
+k =
+
+  Columns 1 through 4
+
+   64.5766  -88.6900  -35.5623   11.0532
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+   2.6649e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   86.7012   62.6322
+
+
+cost =
+
+  302.9342
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   11.0532
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  341.1349
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766  -88.6900  -35.5623   11.0532
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+   1.6197e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   85.7012   63.6322
+
+
+cost =
+
+  303.9295
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.2173
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   -0.1772
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+  370.3366
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -34.5623    4.2563
+
+  Columns 5 through 6
+
+   88.7012   62.6322
+
+
+cost =
+
+  300.3711
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.2090
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.3966  -35.5623   11.0532
+
+  Columns 5 through 6
+
+   85.7012   62.6322
+
+
+cost =
+
+  325.5015
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   53.3966  -34.5623    6.2563
+
+  Columns 5 through 6
+
+   87.7012   62.6322
+
+
+cost =
+
+  304.4035
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.2173
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.2173
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   53.3966  -35.5623    6.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  303.1642
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766  -88.6900  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+   2.6661e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   16.6131   61.6322
+
+
+cost =
+
+   2.2409e+03
+
+
+k =
+
+  Columns 1 through 4
+
+   64.5766  -88.6900  -34.5623    4.2563
+
+  Columns 5 through 6
+
+   86.7012   62.6322
+
+
+cost =
+
+   2.6761e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   75.6140  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  342.3514
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   -0.1772
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  361.4076
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -34.5623    4.2563
+
+  Columns 5 through 6
+
+   88.7012   62.6322
+
+
+cost =
+
+  300.3711
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -34.5623    5.2563
+
+  Columns 5 through 6
+
+   86.9512   61.6322
+
+
+cost =
+
+  302.5274
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+  302.6241
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   86.9512   61.6322
+
+
+cost =
+
+  302.0300
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   63.6322
+
+
+cost =
+
+  301.6914
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623   11.0532
+
+  Columns 5 through 6
+
+   88.7012   62.6322
+
+
+cost =
+
+  349.7440
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   53.3966  -34.5623    4.2563
+
+  Columns 5 through 6
+
+   88.7012   62.6322
+
+
+cost =
+
+  301.0215
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   54.3966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+  305.6719
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   54.3966  -35.5623   88.4213
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+   4.5069e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.3966  -35.5623    6.2563
+
+  Columns 5 through 6
+
+   87.9512   61.6322
+
+
+cost =
+
+  303.3371
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   10.0532
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  324.4668
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -34.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.7244
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.3817
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766  -88.6900  -34.5623    4.2563
+
+  Columns 5 through 6
+
+   86.7012   62.6322
+
+
+cost =
+
+   2.6303e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   10.0532
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  324.4668
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   54.3966  -35.5623   88.4213
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+   4.8766e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   53.3966  -34.5623    6.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  303.8553
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623   -0.1772
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  361.4076
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.6438
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -34.5623   11.0532
+
+  Columns 5 through 6
+
+   88.7012   62.6322
+
+
+cost =
+
+  345.5309
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  303.1908
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766  -88.6900  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+   2.7107e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   86.9512   61.6322
+
+
+cost =
+
+  302.0300
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   86.7012   61.6322
+
+
+cost =
+
+  302.6241
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   75.6140  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  342.3514
+
+
+k =
+
+  Columns 1 through 4
+
+   65.8266   53.8966  -35.3123    5.7563
+
+  Columns 5 through 6
+
+   88.9512   61.6322
+
+
+cost =
+
+  301.3408
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.8966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   16.6131   61.6322
+
+
+cost =
+
+   2.2422e+03
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.3966  -35.5623    6.7563
+
+  Columns 5 through 6
+
+   88.2012   61.6322
+
+
+cost =
+
+  303.8827
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   75.1140  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  339.7802
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.2090
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -34.5623   10.0532
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  324.5119
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.2337
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.3966  -35.3123    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  303.3170
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    6.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  302.4521
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766  -88.6900  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+   2.7107e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -34.5623   88.4213
+
+  Columns 5 through 6
+
+   88.7012   62.6322
+
+
+cost =
+
+   4.7200e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   75.1140  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  339.7802
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.8217
+
+
+k =
+
+  Columns 1 through 4
+
+   65.8266   53.8966  -35.3123    5.2563
+
+  Columns 5 through 6
+
+   88.9512   61.6322
+
+
+cost =
+
+  300.7761
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.2012   61.6322
+
+
+cost =
+
+  302.5966
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   88.9512   61.6322
+
+
+cost =
+
+  300.6221
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.6438
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.2173
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.8966  -34.5623    3.2563
+
+  Columns 5 through 6
+
+   16.6131   62.6322
+
+
+cost =
+
+   2.1846e+03
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   86.7012   62.6322
+
+
+cost =
+
+  302.4230
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -36.5623    5.7563
+
+  Columns 5 through 6
+
+   86.7012   62.6322
+
+
+cost =
+
+  301.8612
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -36.5623    5.7563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.1510
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.3966  -35.3123    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  303.3170
+
+
+k =
+
+  Columns 1 through 4
+
+   65.8266   53.8966  -35.3123    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  301.0271
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.3817
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766  -88.6900  -34.5623   88.4213
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+   9.8026e+06
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -36.5623    5.7563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.1510
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.2012   61.6322
+
+
+cost =
+
+  300.4818
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.4131
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.2173
+
+
+k =
+
+  Columns 1 through 4
+
+   65.8266   53.8966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.9512   61.6322
+
+
+cost =
+
+  300.6515
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   88.9512   61.6322
+
+
+cost =
+
+  300.6221
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.1689
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   66.0766   55.6466  -35.0623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.1322
+
+
+cost =
+
+  301.2239
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.5090
+
+
+k =
+
+  Columns 1 through 4
+
+   66.0766   55.3966  -34.5623    3.2563
+
+  Columns 5 through 6
+
+   16.6131   62.1322
+
+
+cost =
+
+   2.2296e+03
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   53.8966  -35.3123    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.5580
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   66.0766   55.6466  -35.0623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  301.1258
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.2090
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.2090
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   53.8966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.9512   61.6322
+
+
+cost =
+
+  300.1931
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.3123    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.1425
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766  -88.6900  -34.5623   88.4213
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+   8.7003e+06
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.4131
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.6438
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.0623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.1322
+
+
+cost =
+
+  300.3062
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.2090
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   60.6322
+
+
+cost =
+
+  300.1985
+
+
+k =
+
+  Columns 1 through 4
+
+   66.0766   54.3966  -33.5623    3.2563
+
+  Columns 5 through 6
+
+   16.6131   62.1322
+
+
+cost =
+
+   2.1061e+03
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.2012   62.1322
+
+
+cost =
+
+  300.4393
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   66.0766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   16.6131   61.6322
+
+
+cost =
+
+   2.1519e+03
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.8217
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  300.0004
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.2090
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  302.1499
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.3123    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.1425
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.8172
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.0623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.1322
+
+
+cost =
+
+  300.4427
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623   88.4213
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+   4.3703e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.3123    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.1425
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.8727
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   56.1466  -35.0623    5.2563
+
+  Columns 5 through 6
+
+   89.2012   62.6322
+
+
+cost =
+
+  299.6630
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   89.2012   61.6322
+
+
+cost =
+
+  299.7859
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.8966  -35.5623    4.2563
+
+  Columns 5 through 6
+
+   87.7012   61.6322
+
+
+cost =
+
+  301.5227
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.1466  -35.0623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.6101
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.8172
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.1322
+
+
+cost =
+
+  300.1099
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.0623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.2669
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.5470
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  300.0379
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.3407
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  300.4590
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.8727
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   89.2012   61.6322
+
+
+cost =
+
+  299.7859
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  300.0004
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623   88.4213
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+   4.3703e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   16.6131   62.1322
+
+
+cost =
+
+   2.1609e+03
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.8966  -35.5623    4.9438
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.4079
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.1980
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.3128
+
+
+k =
+
+  Columns 1 through 4
+
+   66.7641   55.7091  -35.3123    5.0063
+
+  Columns 5 through 6
+
+   88.8887   62.1322
+
+
+cost =
+
+  302.3317
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.3128
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.8727
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.1980
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623   88.4213
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+   4.3703e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.8966  -35.5623    4.9438
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.2229
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.8727
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   61.6322
+
+
+cost =
+
+  299.9543
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.5384
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.5470
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    5.0063
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.4058
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.8172
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.2012   61.8822
+
+
+cost =
+
+  299.4119
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   89.2012   61.6322
+
+
+cost =
+
+  299.5927
+
+
+k =
+
+  Columns 1 through 4
+
+   66.0766   56.1466  -35.0623    5.7563
+
+  Columns 5 through 6
+
+   89.7012   62.6322
+
+
+cost =
+
+  300.4538
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.8966  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   61.1322
+
+
+cost =
+
+  300.1436
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.8966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.3930
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.8727
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.8966  -35.5623    4.9438
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.2229
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.3128
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3574
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.2012   61.8822
+
+
+cost =
+
+  299.4119
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.8727
+
+
+k =
+
+  Columns 1 through 4
+
+   66.0766   55.6466  -35.0623    5.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  300.9936
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   89.2012   61.6322
+
+
+cost =
+
+  299.5927
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.1873
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1409
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.8966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.3930
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3523
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.3731
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.1873
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   54.8966  -35.8123    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.6313
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1461
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -35.5623   88.4213
+
+  Columns 5 through 6
+
+   88.4512   61.6947
+
+
+cost =
+
+   1.3572e+07
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.4373    5.2563
+
+  Columns 5 through 6
+
+   89.3262   62.2572
+
+
+cost =
+
+  299.5088
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.3128
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3658
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.0623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.5769
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1461
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   88.4512   61.6947
+
+
+cost =
+
+  300.5925
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1248
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.1980
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.8415
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1327
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   88.7012   62.1322
+
+
+cost =
+
+  299.9671
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1248
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.1980
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.3822
+
+
+cost =
+
+  299.1110
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    5.2563
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.3700
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.9438
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1617
+
+
+k =
+
+  Columns 1 through 4
+
+   65.8266   55.6466  -35.0623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.7757
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  298.9780
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.7012   62.3822
+
+
+cost =
+
+  298.8733
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   89.9512   62.1322
+
+
+cost =
+
+  298.5591
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.3822
+
+
+cost =
+
+  299.1110
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.7012   62.3822
+
+
+cost =
+
+  298.8733
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.1873
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -36.0623    4.9438
+
+  Columns 5 through 6
+
+   89.9512   62.1322
+
+
+cost =
+
+  298.5865
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1409
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3658
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1248
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1248
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   89.9512   62.1322
+
+
+cost =
+
+  298.5591
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1337
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1409
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.3496
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3700
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   89.9512   61.6947
+
+
+cost =
+
+  298.9272
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  298.9518
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2933
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   56.7716  -36.0623    5.8813
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  299.6762
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   56.6466  -35.5623    6.2563
+
+  Columns 5 through 6
+
+   90.4512   61.8822
+
+
+cost =
+
+  300.8845
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.6466  -34.5623    4.7563
+
+  Columns 5 through 6
+
+   89.7012   62.3822
+
+
+cost =
+
+  301.4031
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2666
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1409
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   89.9512   62.1322
+
+
+cost =
+
+  298.5591
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1248
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.3128
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.1873
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   89.9512   62.1322
+
+
+cost =
+
+  298.5591
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2933
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.6466  -36.0623    4.9438
+
+  Columns 5 through 6
+
+   89.9512   61.8822
+
+
+cost =
+
+  300.4578
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    5.8813
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  300.3005
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.1113
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.4512   62.3822
+
+
+cost =
+
+  299.0939
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -36.0623    4.9438
+
+  Columns 5 through 6
+
+   89.9512   62.1322
+
+
+cost =
+
+  298.5865
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -34.5623    4.7563
+
+  Columns 5 through 6
+
+   89.9512   62.3822
+
+
+cost =
+
+  299.3407
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.7716  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.1546
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   56.6466  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   88.4512   62.1322
+
+
+cost =
+
+  302.0958
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   56.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   63.3822
+
+
+cost =
+
+  298.9551
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.0953
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   56.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  301.1791
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2933
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.3658
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.6466  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.1066
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2666
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2933
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -36.0623    4.9438
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2214
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.6466  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   89.9512   62.1322
+
+
+cost =
+
+  300.4400
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.0953
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   56.6466  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.3270
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   89.9512   62.1322
+
+
+cost =
+
+  298.5972
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.5841  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   89.2012   62.3822
+
+
+cost =
+
+  299.1594
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   56.6466  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  299.4721
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   56.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  300.1102
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2933
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.6466  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.1066
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    3.8813
+
+  Columns 5 through 6
+
+   89.4512   61.8822
+
+
+cost =
+
+  299.7946
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   54.5841  -33.5623    4.7563
+
+  Columns 5 through 6
+
+   89.9512   62.3822
+
+
+cost =
+
+  300.1653
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   60.8822
+
+
+cost =
+
+  301.4856
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.3966  -35.5623    3.7563
+
+  Columns 5 through 6
+
+   89.4512   62.3822
+
+
+cost =
+
+  299.6865
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   62.1322
+
+
+cost =
+
+  299.1409
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -36.0623    4.9438
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2214
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   56.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.5023
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   56.6466  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  298.1883
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   54.5841  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   89.2012   62.1322
+
+
+cost =
+
+  299.8556
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  298.1588
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.0953
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.6466  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.1066
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.5841  -35.5623    4.8813
+
+  Columns 5 through 6
+
+   89.4512   61.6947
+
+
+cost =
+
+  301.2730
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   56.6466  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  298.0218
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2933
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2933
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.0953
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.1263
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.8733
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.8966  -36.0623    4.9438
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.9296
+
+
+k =
+
+  Columns 1 through 4
+
+   66.2641   55.8966  -36.0623    5.2563
+
+  Columns 5 through 6
+
+   90.9512   62.1947
+
+
+cost =
+
+  298.8933
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.6466  -35.0623    4.3813
+
+  Columns 5 through 6
+
+   89.9512   62.3822
+
+
+cost =
+
+  298.8581
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -36.0623    4.3813
+
+  Columns 5 through 6
+
+   89.9512   62.1322
+
+
+cost =
+
+  298.4875
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   56.6466  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.3973
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.9438
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  298.0288
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   56.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.7177
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   56.6466  -35.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  298.2583
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   55.6466  -36.0623    4.8813
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  299.4666
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.0953
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.8733
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.6466  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.9938
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.8733
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.8733
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.5841  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  297.9729
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  298.0953
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.8966  -36.0623    4.9438
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.9296
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.8966  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.8098
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.6466  -36.0623    4.9438
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.4528
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -35.0623    5.7563
+
+  Columns 5 through 6
+
+   90.9512   62.6947
+
+
+cost =
+
+  299.4372
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   91.9512   63.1322
+
+
+cost =
+
+  298.7470
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   63.1322
+
+
+cost =
+
+  298.3290
+
+
+k =
+
+  Columns 1 through 4
+
+   66.2641   55.8966  -36.0623    5.2563
+
+  Columns 5 through 6
+
+   90.9512   61.1947
+
+
+cost =
+
+  299.0917
+
+
+k =
+
+  Columns 1 through 4
+
+   66.2641   55.6466  -36.0623    5.2563
+
+  Columns 5 through 6
+
+   90.9512   61.1947
+
+
+cost =
+
+  299.0589
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -36.0623    4.9438
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.8766
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   63.1322
+
+
+cost =
+
+  298.1957
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.7308
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.5841  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.8739
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.2933
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.8966  -35.5623    4.9438
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  298.0334
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.5841  -35.5623    5.7563
+
+  Columns 5 through 6
+
+   90.9512   62.6947
+
+
+cost =
+
+  299.2677
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   56.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  298.3255
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   56.6466  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  298.1212
+
+
+k =
+
+  Columns 1 through 4
+
+   65.7641   55.6466  -36.0623    4.9438
+
+  Columns 5 through 6
+
+   90.4512   62.1322
+
+
+cost =
+
+  298.4528
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.9438
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  298.0288
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.7308
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.8733
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.8733
+
+
+k =
+
+  Columns 1 through 4
+
+   64.7641   55.5841  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   61.6947
+
+
+cost =
+
+  297.8289
+
+
+k =
+
+  Columns 1 through 4
+
+   66.5766   54.5841  -34.5623    4.7563
+
+  Columns 5 through 6
+
+   91.9512   61.6947
+
+
+cost =
+
+  299.2684
+
+
+k =
+
+  Columns 1 through 4
+
+   65.5766   55.8966  -36.0623    4.7563
+
+  Columns 5 through 6
+
+   91.9512   61.1322
+
+
+cost =
+
+  297.5594
+
+
+k =
+
+  Columns 1 through 4
+
+   64.5766   54.7716  -35.5623    4.7563
+
+  Columns 5 through 6
+
+   90.9512   62.1322
+
+
+cost =
+
+  297.5656
+

@@ -1,0 +1,24 @@
+PFL
+
+
+swing up DIPC
+
+----swing up control of a serial dip
++ restrict position of the cart
++ dd to ud to uu, in that: step 2 stabilizes first pend while swing up second
++ stabilizing first pend at the unstable equilibrium point by state feedback stabilization controller SMC
++ swing up second pend by energy control 
+<cause SMC has strong robustness to disturbance and swingup input is considered as disturbance so the added swingup control input does not affect the stabilization in stabilizing the first pend>
++ energy control method using lyapunov method
++ step 1: negelecting second pend -> swing up single pendulum applied
+	Lyapunov func : V1 = 1/2 E1^2, E1 is the energy of the first pend
+		E1 = 1/2 I1 theta12 + m1gl1(cos theta1 -1)	(0; -2m1l1g)
+		dV = -m1l1E1 dtheta1 cos theta1 utheta1	utheta1 is u for swing up first pend
+	to make dV < 0, the control input given as u theta1 = u alpha1 sign (E1 dtheta1 cos theta1)	u alpha1 > 0
++ step 2: swing up the second pend while stabilizing the first pend
+... with highlight in pdf
+
+
+
+
+----swing up of the double pendulum on a cart by feddforward and feedback control with experimental validation
