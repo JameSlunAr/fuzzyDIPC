@@ -1,0 +1,26 @@
+function cost = GA_IPC_cost(k)
+assignin("base", "Kfz", k);
+sim ("GA_IPC_sim.slx");
+cost = ITAE(length(ITAE))
+end
+
+% Genetic algorithm to tune Fuzzy Logic Controller (FLC) for
+% Inverted Pendulum on Cart (IPC)
+
+% Initialization
+
+nvars = 4;
+lb = [-200 -200 -200 -200];
+ub = [200 200 200 200];
+
+% GA Options 
+ga_opt = gaoptimset('Display', 'off', 'Generations', ...
+        10, 'PopulationSize', 10, 'PlotFcns', @gaplotbestf);
+
+% Object Fuction
+
+obj_fn = @(k) GA_IPC_cost(k);
+
+% GA command
+
+[x, fval] = ga((obj_fn), nvars, [], [], [], [], lb, ub, [], ga_opt)
