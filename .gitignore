@@ -1,0 +1,13 @@
+# Ignore MATLAB temporary files
+*.asv
+*.bak
+*.log
+*.lck
+
+# Ignore MATLAB compiled files
+*.mex*
+*.p
+
+# Ignore MATLAB project-specific folders
+/.matlab/
+ 
